@@ -5,4 +5,4 @@
 Realizando a criaçao de itens e exclusão usando apenas JS, e salvando no localStorage.
 
 
-# [Link to view] (https://murilio.github.io/add-itens-JS)
+# <a href="https://murilio.github.io/add-itens-JS">Link to view</a>
