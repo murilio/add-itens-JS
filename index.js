@@ -47,6 +47,7 @@ function deleteItem (pos){
     itensLista.splice(pos, 1)
 
     renderList()
+    
     saveToStorage()
 }
 
