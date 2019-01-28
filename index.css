@@ -52,8 +52,12 @@ body {
     text-align: center;
 }
 
+.appEnter img {
+    padding-top: 20px;
+    margin: 0 auto;
+}
+
 .appEnter h1 {
-    margin-top: 25px;
     margin-bottom: 15px;
     font-size: 20px;
     font-weight: 500;
